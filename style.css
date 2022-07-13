@@ -1,0 +1,44 @@
+body{
+    background-image: url('https://us.123rf.com/450wm/katisa/katisa1905/katisa190500105/123692350-3d-render-abstract-pink-blue-neon-background-glowing-vertical-lines-illuminated-stairs-ultraviolet-s.jpg?ver=6');
+    background-size: cover;
+}
+.heading{
+    font-family: 'Montagu Slab', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Readex Pro', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+    margin: 0;
+    background-color: lightpink;
+    color: black;
+    width: 100%;
+    font-size:x-large;
+}
+.note{
+    font-family: 'Readex Pro', sans-serif;
+}
+.div_speed{
+    float: left;
+    margin: 15px;
+    font-family: 'Readex Pro', sans-serif;
+    font-size: large;
+}
+.div_volume{
+    float: right;
+    margin: 15px;
+    font-family: 'Readex Pro', sans-serif;
+    font-size: large;
+}
+.div_speed_img, .div_volume_img{
+    width: 200px;
+    border-radius: 150px;
+}
+.play_btn, .stop_btn{
+    width: 140px;
+    font-size: large;
+    font-family: 'Readex Pro', sans-serif;
+}
+canvas{
+    border-radius: 20px;
+    border: 5px solid lightcyan;
+    margin-top: 50px;
+}
